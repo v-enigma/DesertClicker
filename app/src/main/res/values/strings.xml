@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DesertClicker</string>
+    <string name = "share_text">I\'ve clicked %1$d desserts for a total of $%2$d #AndroidDessertClicker</string>
+</resources>
